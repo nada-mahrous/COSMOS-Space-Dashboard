@@ -86,7 +86,7 @@ Displays planet cards and detailed information such as mass, radius, density, gr
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo]([YOUR_LIVE_DEMO_LINK_HERE](https://nada-mahrous.github.io/COSMOS-Space-Dashboard/))
+🔗 [View Live Demo]([https://nada-mahrous.github.io/COSMOS-Space-Dashboard/])
 
 ---
 
