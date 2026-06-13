@@ -92,7 +92,7 @@ Displays planet cards and detailed information such as mass, radius, density, gr
 
 ## 📸 Preview
 
-![COSMOS Space Dashboard Preview](./assets/images/preview.png)
+![COSMOS Space Dashboard Preview](preview.png)
 
 ---
 
