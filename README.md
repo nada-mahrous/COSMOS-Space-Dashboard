@@ -21,6 +21,18 @@ It integrates real space APIs to display dynamic astronomy data, upcoming rocket
 
 ---
 
+## 🚀 Live Demo
+
+[View Live Demo](https://nada-mahrous.github.io/COSMOS-Space-Dashboard/)
+
+---
+
+## 📸 Preview
+
+![COSMOS Space Dashboard Preview](preview.png)
+
+---
+
 ## ✨ Features
 
 * 🌌 Display NASA Astronomy Picture of the Day.
@@ -84,17 +96,6 @@ Displays planet cards and detailed information such as mass, radius, density, gr
 
 ---
 
-## 🚀 Live Demo
-
-[View Live Demo](https://nada-mahrous.github.io/COSMOS-Space-Dashboard/)
-
----
-
-## 📸 Preview
-
-![COSMOS Space Dashboard Preview](preview.png)
-
----
 
 ## 📁 Folder Structure
 
